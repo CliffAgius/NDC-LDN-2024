@@ -1,3 +1,6 @@
 [submodule "Meadow.ProjectLab.Samples"]
 	path = Meadow.ProjectLab.Samples
 	url = https://github.com/WildernessLabs/Meadow.ProjectLab.Samples.git
+[submodule "Meadow.Project.Samples"]
+	path = Meadow.Project.Samples
+	url = https://github.com/WildernessLabs/Meadow.Project.Samples.git
